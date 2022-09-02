@@ -2,10 +2,6 @@ E:\SandBox\Git-Repos\BookOnlineDemo\BookOnline\BookOnline2\bin\Debug\net6.0\apps
 E:\SandBox\Git-Repos\BookOnlineDemo\BookOnline\BookOnline2\bin\Debug\net6.0\appsettings.json
 E:\SandBox\Git-Repos\BookOnlineDemo\BookOnline\BookOnline2\bin\Debug\net6.0\data.json
 E:\SandBox\Git-Repos\BookOnlineDemo\BookOnline\BookOnline2\bin\Debug\net6.0\BookOnline.exe
-E:\SandBox\Git-Repos\BookOnlineDemo\BookOnline\BookOnline2\bin\Debug\net6.0\BookOnline.deps.json
-E:\SandBox\Git-Repos\BookOnlineDemo\BookOnline\BookOnline2\bin\Debug\net6.0\BookOnline.runtimeconfig.json
-E:\SandBox\Git-Repos\BookOnlineDemo\BookOnline\BookOnline2\bin\Debug\net6.0\BookOnline.dll
-E:\SandBox\Git-Repos\BookOnlineDemo\BookOnline\BookOnline2\bin\Debug\net6.0\BookOnline.pdb
 E:\SandBox\Git-Repos\BookOnlineDemo\BookOnline\BookOnline2\bin\Debug\net6.0\Microsoft.OpenApi.dll
 E:\SandBox\Git-Repos\BookOnlineDemo\BookOnline\BookOnline2\bin\Debug\net6.0\Newtonsoft.Json.dll
 E:\SandBox\Git-Repos\BookOnlineDemo\BookOnline\BookOnline2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -25,5 +21,11 @@ E:\SandBox\Git-Repos\BookOnlineDemo\BookOnline\BookOnline2\obj\Debug\net6.0\Book
 E:\SandBox\Git-Repos\BookOnlineDemo\BookOnline\BookOnline2\obj\Debug\net6.0\BookOnline.dll
 E:\SandBox\Git-Repos\BookOnlineDemo\BookOnline\BookOnline2\obj\Debug\net6.0\refint\BookOnline.dll
 E:\SandBox\Git-Repos\BookOnlineDemo\BookOnline\BookOnline2\obj\Debug\net6.0\BookOnline.pdb
+E:\SandBox\Git-Repos\BookOnlineDemo\BookOnline\BookOnline2\bin\Debug\net6.0\BookOnline.deps.json
+E:\SandBox\Git-Repos\BookOnlineDemo\BookOnline\BookOnline2\bin\Debug\net6.0\BookOnline.runtimeconfig.json
+E:\SandBox\Git-Repos\BookOnlineDemo\BookOnline\BookOnline2\bin\Debug\net6.0\BookOnline.dll
+E:\SandBox\Git-Repos\BookOnlineDemo\BookOnline\BookOnline2\bin\Debug\net6.0\BookOnline.pdb
 E:\SandBox\Git-Repos\BookOnlineDemo\BookOnline\BookOnline2\obj\Debug\net6.0\BookOnline.genruntimeconfig.cache
 E:\SandBox\Git-Repos\BookOnlineDemo\BookOnline\BookOnline2\obj\Debug\net6.0\ref\BookOnline.dll
+E:\SandBox\Git-Repos\BookOnlineDemo\BookOnline\BookOnline2\bin\Debug\net6.0\Elasticsearch.Net.dll
+E:\SandBox\Git-Repos\BookOnlineDemo\BookOnline\BookOnline2\bin\Debug\net6.0\Nest.dll
